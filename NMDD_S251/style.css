@@ -6,3 +6,12 @@ body{
   position:relative;
   left: 300px;
 }
+
+img{
+  width: 500px;
+  height:800px;
+}
+
+img{
+  border-radius: 10px;
+}
