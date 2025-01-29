@@ -15,3 +15,14 @@ img{
 img{
   border-radius: 20px;
 }
+
+/* unvisited link */
+a:link {
+  color:blue;
+}
+
+/* visited link */
+a:link {
+  color: red;
+}
+  
